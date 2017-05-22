@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+local_settings.py
+*.db
+db.sqlite3
+.project
+.pydevproject
+.settings
+.DS_Store
+env/
+*.json
